@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made it so muh easier to quickyl view the differences between large files. This will lead to the correction and completion of projects in a much faster manner than having to manually look through them line by line.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    it would show the evolution of the files from inception to present. You can more easily see the right and wrong programming paths to go down. It'd also give you freedom to write code without worrying about messing up an entire file and starting from scratch
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros are that you have more control over the content that you are saving and are less liekly to save in an awkard place that wouldn't make sene as far as the code is concerned. the cons is that humans sometimes have fallable memories and forget to save things.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    time vs. payout. if a lot of your clientele aren't going to use it, then the feature isn't worth programming into your service.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    type them in as a command. as long ass you have the right commit numbers, then it should be a piece of cake.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    it gives you a backup to fall back on, it gives a safety net so that you're able to boldly code where no coder has been before.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    learning how to code, man. I want to learn this so I can get on to bigger and better things. I want to learn VPNs, VNCs, being able to set up security cameras that  you'd be able to remote into from 1000's of miles away.
