@@ -4,18 +4,28 @@ from my understanding, initialization brings you back to the starting point of a
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-I think it is able to show you what you are trying to move from one location to another, it helps you reverify and make sure that you are doing what you are meant to be doing. I have no idea the value it could offer.
+the working directory shows you basically everything that is in the current directory. The satging area shows you a more in depth look at an individual file within that directory. Some of the value that it offers is that is can show you, through git diff, the changes that have been made from the file to the staging area. this is useful because you can make sure the changes have been secured before you save the commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+again, like i said in the last answer, it gives you a chance to see the changes that you made from the working directory to the staging area before you make it an official commit. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches help sandbox your project so that you're not messing with a good line of code if you're wanting to try and code something that you're not sure will work or how you would get to work.
+
 How do the diagrams help you visualize the branch structure?
+
+It is nice to be able to put a visual representation behind what I'm doing. It gives greater mental clarity and solidifies somewhat abstract realities.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+to show how it would look in the terminal, to give an visual guide as to the IRL happenings, and to show how you can go from a non-linear version of the master branch to being linear with a solidified branch of code.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+If it can be done automatically, I'd prefer it to be done automatically. I don't really have any idea as to how to write code so most of that stuff is beyond my head. However, I can see how it would be super useful and help keep bugs out of the code.
