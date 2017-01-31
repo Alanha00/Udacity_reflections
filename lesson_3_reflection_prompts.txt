@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I guess I would have do to somthing like Google Docs, that's what I did in college and it seemed to work fine. Mainly that was just papers, powerpoints and the like though. I haven't yet collaborated with anyone on any coding stuff.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
