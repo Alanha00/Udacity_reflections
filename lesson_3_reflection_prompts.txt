@@ -6,12 +6,12 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    If you are working at a different computer without the same file tree as your home computer,  it will be much more effectual for you to pull the changes so the files could come with it. everything stays up-to-date with your project this way.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    branches you use in a local line of coding in order to test an experimental line of code. Forks are used in order to give credit to the author and keeps the integrity of his work. cloning is when you want to take someone's line of code and make it your own.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
